@@ -6,6 +6,10 @@
   height: 40vmin;
   pointer-events: none;
 }
+form input, button  {
+ padding: 10px;
+ margin: 10px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
